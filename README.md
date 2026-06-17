@@ -11,3 +11,5 @@ This repository contains the files used to reproduce the Sangha-style CODE test 
 ## Notes
 
 The files are provided to support reproducibility of the literature-comparison analysis. The ECG images are derived from the CODE test subset and rendered as images for model comparison.
+
+The Sangha web-model predictions were obtained from <https://www.cards-lab.org/ecgdx>.
