@@ -1,0 +1,828 @@
+image,prediction,prediction_1dAVb,prediction_RBBB,prediction_LBBB,prediction_SB,prediction_AF,prediction_ST
+ecg_0.png,None,0,0,0,0,0,0
+ecg_1.png,None,0,0,0,0,0,0
+ecg_2.png,None,0,0,0,0,0,0
+ecg_3.png,None,0,0,0,0,0,0
+ecg_4.png,None,0,0,0,0,0,0
+ecg_5.png,None,0,0,0,0,0,0
+ecg_6.png,None,0,0,0,0,0,0
+ecg_7.png,None,0,0,0,0,0,0
+ecg_8.png,None,0,0,0,0,0,0
+ecg_9.png,None,0,0,0,0,0,0
+ecg_10.png,None,0,0,0,0,0,0
+ecg_11.png,None,0,0,0,0,0,0
+ecg_12.png,None,0,0,0,0,0,0
+ecg_13.png,None,0,0,0,0,0,0
+ecg_14.png,None,0,0,0,0,0,0
+ecg_15.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_16.png,None,0,0,0,0,0,0
+ecg_17.png,None,0,0,0,0,0,0
+ecg_18.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_19.png,None,0,0,0,0,0,0
+ecg_20.png,None,0,0,0,0,0,0
+ecg_21.png,None,0,0,0,0,0,0
+ecg_22.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_23.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_24.png,None,0,0,0,0,0,0
+ecg_25.png,None,0,0,0,0,0,0
+ecg_26.png,None,0,0,0,0,0,0
+ecg_27.png,None,0,0,0,0,0,0
+ecg_28.png,None,0,0,0,0,0,0
+ecg_29.png,None,0,0,0,0,0,0
+ecg_30.png,None,0,0,0,0,0,0
+ecg_31.png,None,0,0,0,0,0,0
+ecg_32.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_33.png,None,0,0,0,0,0,0
+ecg_34.png,None,0,0,0,0,0,0
+ecg_35.png,None,0,0,0,0,0,0
+ecg_36.png,None,0,0,0,0,0,0
+ecg_37.png,None,0,0,0,0,0,0
+ecg_38.png,None,0,0,0,0,0,0
+ecg_39.png,None,0,0,0,0,0,0
+ecg_40.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_41.png,None,0,0,0,0,0,0
+ecg_42.png,None,0,0,0,0,0,0
+ecg_43.png,None,0,0,0,0,0,0
+ecg_44.png,None,0,0,0,0,0,0
+ecg_45.png,None,0,0,0,0,0,0
+ecg_46.png,None,0,0,0,0,0,0
+ecg_47.png,None,0,0,0,0,0,0
+ecg_48.png,None,0,0,0,0,0,0
+ecg_49.png,None,0,0,0,0,0,0
+ecg_50.png,None,0,0,0,0,0,0
+ecg_51.png,None,0,0,0,0,0,0
+ecg_52.png,None,0,0,0,0,0,0
+ecg_53.png,None,0,0,0,0,0,0
+ecg_54.png,None,0,0,0,0,0,0
+ecg_55.png,None,0,0,0,0,0,0
+ecg_56.png,None,0,0,0,0,0,0
+ecg_57.png,None,0,0,0,0,0,0
+ecg_58.png,None,0,0,0,0,0,0
+ecg_59.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_60.png,None,0,0,0,0,0,0
+ecg_61.png,None,0,0,0,0,0,0
+ecg_62.png,None,0,0,0,0,0,0
+ecg_63.png,None,0,0,0,0,0,0
+ecg_64.png,None,0,0,0,0,0,0
+ecg_65.png,None,0,0,0,0,0,0
+ecg_66.png,None,0,0,0,0,0,0
+ecg_67.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_68.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_69.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_70.png,None,0,0,0,0,0,0
+ecg_71.png,None,0,0,0,0,0,0
+ecg_72.png,None,0,0,0,0,0,0
+ecg_73.png,None,0,0,0,0,0,0
+ecg_74.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_75.png,None,0,0,0,0,0,0
+ecg_76.png,None,0,0,0,0,0,0
+ecg_77.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_78.png,None,0,0,0,0,0,0
+ecg_79.png,None,0,0,0,0,0,0
+ecg_80.png,None,0,0,0,0,0,0
+ecg_81.png,None,0,0,0,0,0,0
+ecg_82.png,None,0,0,0,0,0,0
+ecg_83.png,None,0,0,0,0,0,0
+ecg_84.png,None,0,0,0,0,0,0
+ecg_85.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_86.png,None,0,0,0,0,0,0
+ecg_87.png,None,0,0,0,0,0,0
+ecg_88.png,None,0,0,0,0,0,0
+ecg_89.png,None,0,0,0,0,0,0
+ecg_90.png,None,0,0,0,0,0,0
+ecg_91.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_92.png,None,0,0,0,0,0,0
+ecg_93.png,None,0,0,0,0,0,0
+ecg_94.png,None,0,0,0,0,0,0
+ecg_95.png,None,0,0,0,0,0,0
+ecg_96.png,None,0,0,0,0,0,0
+ecg_97.png,None,0,0,0,0,0,0
+ecg_98.png,None,0,0,0,0,0,0
+ecg_99.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_100.png,None,0,0,0,0,0,0
+ecg_101.png,None,0,0,0,0,0,0
+ecg_102.png,None,0,0,0,0,0,0
+ecg_103.png,None,0,0,0,0,0,0
+ecg_104.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_105.png,None,0,0,0,0,0,0
+ecg_106.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_107.png,None,0,0,0,0,0,0
+ecg_108.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_109.png,None,0,0,0,0,0,0
+ecg_110.png,None,0,0,0,0,0,0
+ecg_111.png,None,0,0,0,0,0,0
+ecg_112.png,None,0,0,0,0,0,0
+ecg_113.png,None,0,0,0,0,0,0
+ecg_114.png,None,0,0,0,0,0,0
+ecg_115.png,None,0,0,0,0,0,0
+ecg_116.png,None,0,0,0,0,0,0
+ecg_117.png,None,0,0,0,0,0,0
+ecg_118.png,None,0,0,0,0,0,0
+ecg_119.png,None,0,0,0,0,0,0
+ecg_120.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_121.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_122.png,None,0,0,0,0,0,0
+ecg_123.png,None,0,0,0,0,0,0
+ecg_124.png,None,0,0,0,0,0,0
+ecg_125.png,None,0,0,0,0,0,0
+ecg_126.png,None,0,0,0,0,0,0
+ecg_127.png,None,0,0,0,0,0,0
+ecg_128.png,None,0,0,0,0,0,0
+ecg_129.png,None,0,0,0,0,0,0
+ecg_130.png,None,0,0,0,0,0,0
+ecg_131.png,None,0,0,0,0,0,0
+ecg_132.png,None,0,0,0,0,0,0
+ecg_133.png,None,0,0,0,0,0,0
+ecg_134.png,None,0,0,0,0,0,0
+ecg_135.png,None,0,0,0,0,0,0
+ecg_136.png,None,0,0,0,0,0,0
+ecg_137.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_138.png,None,0,0,0,0,0,0
+ecg_139.png,None,0,0,0,0,0,0
+ecg_140.png,None,0,0,0,0,0,0
+ecg_141.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_142.png,None,0,0,0,0,0,0
+ecg_143.png,None,0,0,0,0,0,0
+ecg_144.png,None,0,0,0,0,0,0
+ecg_145.png,None,0,0,0,0,0,0
+ecg_146.png,None,0,0,0,0,0,0
+ecg_147.png,None,0,0,0,0,0,0
+ecg_148.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_149.png,None,0,0,0,0,0,0
+ecg_150.png,None,0,0,0,0,0,0
+ecg_151.png,None,0,0,0,0,0,0
+ecg_152.png,None,0,0,0,0,0,0
+ecg_153.png,None,0,0,0,0,0,0
+ecg_154.png,None,0,0,0,0,0,0
+ecg_155.png,None,0,0,0,0,0,0
+ecg_156.png,None,0,0,0,0,0,0
+ecg_157.png,None,0,0,0,0,0,0
+ecg_158.png,None,0,0,0,0,0,0
+ecg_159.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_160.png,None,0,0,0,0,0,0
+ecg_161.png,None,0,0,0,0,0,0
+ecg_162.png,None,0,0,0,0,0,0
+ecg_163.png,None,0,0,0,0,0,0
+ecg_164.png,None,0,0,0,0,0,0
+ecg_165.png,None,0,0,0,0,0,0
+ecg_166.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_167.png,None,0,0,0,0,0,0
+ecg_168.png,None,0,0,0,0,0,0
+ecg_169.png,None,0,0,0,0,0,0
+ecg_170.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_171.png,None,0,0,0,0,0,0
+ecg_172.png,None,0,0,0,0,0,0
+ecg_173.png,None,0,0,0,0,0,0
+ecg_174.png,None,0,0,0,0,0,0
+ecg_175.png,None,0,0,0,0,0,0
+ecg_176.png,None,0,0,0,0,0,0
+ecg_177.png,None,0,0,0,0,0,0
+ecg_178.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_179.png,None,0,0,0,0,0,0
+ecg_180.png,None,0,0,0,0,0,0
+ecg_181.png,None,0,0,0,0,0,0
+ecg_182.png,None,0,0,0,0,0,0
+ecg_183.png,None,0,0,0,0,0,0
+ecg_184.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_185.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_186.png,None,0,0,0,0,0,0
+ecg_187.png,None,0,0,0,0,0,0
+ecg_188.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_189.png,None,0,0,0,0,0,0
+ecg_190.png,None,0,0,0,0,0,0
+ecg_191.png,None,0,0,0,0,0,0
+ecg_192.png,None,0,0,0,0,0,0
+ecg_193.png,None,0,0,0,0,0,0
+ecg_194.png,None,0,0,0,0,0,0
+ecg_195.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_196.png,None,0,0,0,0,0,0
+ecg_197.png,None,0,0,0,0,0,0
+ecg_198.png,None,0,0,0,0,0,0
+ecg_199.png,None,0,0,0,0,0,0
+ecg_200.png,None,0,0,0,0,0,0
+ecg_201.png,None,0,0,0,0,0,0
+ecg_202.png,None,0,0,0,0,0,0
+ecg_203.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_204.png,None,0,0,0,0,0,0
+ecg_205.png,None,0,0,0,0,0,0
+ecg_206.png,None,0,0,0,0,0,0
+ecg_207.png,None,0,0,0,0,0,0
+ecg_208.png,None,0,0,0,0,0,0
+ecg_209.png,None,0,0,0,0,0,0
+ecg_210.png,None,0,0,0,0,0,0
+ecg_211.png,None,0,0,0,0,0,0
+ecg_212.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_213.png,None,0,0,0,0,0,0
+ecg_214.png,None,0,0,0,0,0,0
+ecg_215.png,None,0,0,0,0,0,0
+ecg_216.png,None,0,0,0,0,0,0
+ecg_217.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_218.png,None,0,0,0,0,0,0
+ecg_219.png,None,0,0,0,0,0,0
+ecg_220.png,None,0,0,0,0,0,0
+ecg_221.png,None,0,0,0,0,0,0
+ecg_222.png,None,0,0,0,0,0,0
+ecg_223.png,None,0,0,0,0,0,0
+ecg_224.png,None,0,0,0,0,0,0
+ecg_225.png,None,0,0,0,0,0,0
+ecg_226.png,None,0,0,0,0,0,0
+ecg_227.png,None,0,0,0,0,0,0
+ecg_228.png,None,0,0,0,0,0,0
+ecg_229.png,None,0,0,0,0,0,0
+ecg_230.png,None,0,0,0,0,0,0
+ecg_231.png,None,0,0,0,0,0,0
+ecg_232.png,None,0,0,0,0,0,0
+ecg_233.png,None,0,0,0,0,0,0
+ecg_234.png,None,0,0,0,0,0,0
+ecg_235.png,None,0,0,0,0,0,0
+ecg_236.png,None,0,0,0,0,0,0
+ecg_237.png,None,0,0,0,0,0,0
+ecg_238.png,None,0,0,0,0,0,0
+ecg_239.png,None,0,0,0,0,0,0
+ecg_240.png,None,0,0,0,0,0,0
+ecg_241.png,None,0,0,0,0,0,0
+ecg_242.png,None,0,0,0,0,0,0
+ecg_243.png,None,0,0,0,0,0,0
+ecg_244.png,None,0,0,0,0,0,0
+ecg_245.png,None,0,0,0,0,0,0
+ecg_246.png,None,0,0,0,0,0,0
+ecg_247.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_248.png,None,0,0,0,0,0,0
+ecg_249.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_250.png,None,0,0,0,0,0,0
+ecg_251.png,None,0,0,0,0,0,0
+ecg_252.png,None,0,0,0,0,0,0
+ecg_253.png,None,0,0,0,0,0,0
+ecg_254.png,None,0,0,0,0,0,0
+ecg_255.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_256.png,None,0,0,0,0,0,0
+ecg_257.png,None,0,0,0,0,0,0
+ecg_258.png,None,0,0,0,0,0,0
+ecg_259.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_260.png,None,0,0,0,0,0,0
+ecg_261.png,None,0,0,0,0,0,0
+ecg_262.png,None,0,0,0,0,0,0
+ecg_263.png,None,0,0,0,0,0,0
+ecg_264.png,None,0,0,0,0,0,0
+ecg_265.png,None,0,0,0,0,0,0
+ecg_266.png,None,0,0,0,0,0,0
+ecg_267.png,None,0,0,0,0,0,0
+ecg_268.png,None,0,0,0,0,0,0
+ecg_269.png,None,0,0,0,0,0,0
+ecg_270.png,None,0,0,0,0,0,0
+ecg_271.png,None,0,0,0,0,0,0
+ecg_272.png,None,0,0,0,0,0,0
+ecg_273.png,None,0,0,0,0,0,0
+ecg_274.png,None,0,0,0,0,0,0
+ecg_275.png,None,0,0,0,0,0,0
+ecg_276.png,None,0,0,0,0,0,0
+ecg_277.png,None,0,0,0,0,0,0
+ecg_278.png,None,0,0,0,0,0,0
+ecg_279.png,None,0,0,0,0,0,0
+ecg_280.png,None,0,0,0,0,0,0
+ecg_281.png,None,0,0,0,0,0,0
+ecg_282.png,None,0,0,0,0,0,0
+ecg_283.png,None,0,0,0,0,0,0
+ecg_284.png,None,0,0,0,0,0,0
+ecg_285.png,None,0,0,0,0,0,0
+ecg_286.png,None,0,0,0,0,0,0
+ecg_287.png,None,0,0,0,0,0,0
+ecg_288.png,None,0,0,0,0,0,0
+ecg_289.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_290.png,None,0,0,0,0,0,0
+ecg_291.png,None,0,0,0,0,0,0
+ecg_292.png,None,0,0,0,0,0,0
+ecg_293.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_294.png,None,0,0,0,0,0,0
+ecg_295.png,None,0,0,0,0,0,0
+ecg_296.png,None,0,0,0,0,0,0
+ecg_297.png,None,0,0,0,0,0,0
+ecg_298.png,['1st degree AV Block' 'Right Bundle Branch Block'],1,1,0,0,0,0
+ecg_299.png,None,0,0,0,0,0,0
+ecg_300.png,None,0,0,0,0,0,0
+ecg_301.png,None,0,0,0,0,0,0
+ecg_302.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_303.png,None,0,0,0,0,0,0
+ecg_304.png,None,0,0,0,0,0,0
+ecg_305.png,None,0,0,0,0,0,0
+ecg_306.png,None,0,0,0,0,0,0
+ecg_307.png,None,0,0,0,0,0,0
+ecg_308.png,None,0,0,0,0,0,0
+ecg_309.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_310.png,None,0,0,0,0,0,0
+ecg_311.png,None,0,0,0,0,0,0
+ecg_312.png,None,0,0,0,0,0,0
+ecg_313.png,None,0,0,0,0,0,0
+ecg_314.png,None,0,0,0,0,0,0
+ecg_315.png,None,0,0,0,0,0,0
+ecg_316.png,None,0,0,0,0,0,0
+ecg_317.png,None,0,0,0,0,0,0
+ecg_318.png,None,0,0,0,0,0,0
+ecg_319.png,None,0,0,0,0,0,0
+ecg_320.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_321.png,None,0,0,0,0,0,0
+ecg_322.png,None,0,0,0,0,0,0
+ecg_323.png,None,0,0,0,0,0,0
+ecg_324.png,None,0,0,0,0,0,0
+ecg_325.png,None,0,0,0,0,0,0
+ecg_326.png,None,0,0,0,0,0,0
+ecg_327.png,None,0,0,0,0,0,0
+ecg_328.png,None,0,0,0,0,0,0
+ecg_329.png,None,0,0,0,0,0,0
+ecg_330.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_331.png,None,0,0,0,0,0,0
+ecg_332.png,None,0,0,0,0,0,0
+ecg_333.png,None,0,0,0,0,0,0
+ecg_334.png,None,0,0,0,0,0,0
+ecg_335.png,None,0,0,0,0,0,0
+ecg_336.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_337.png,None,0,0,0,0,0,0
+ecg_338.png,None,0,0,0,0,0,0
+ecg_339.png,None,0,0,0,0,0,0
+ecg_340.png,None,0,0,0,0,0,0
+ecg_341.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_342.png,None,0,0,0,0,0,0
+ecg_343.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_344.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_345.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_346.png,None,0,0,0,0,0,0
+ecg_347.png,None,0,0,0,0,0,0
+ecg_348.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_349.png,None,0,0,0,0,0,0
+ecg_350.png,None,0,0,0,0,0,0
+ecg_351.png,None,0,0,0,0,0,0
+ecg_352.png,None,0,0,0,0,0,0
+ecg_353.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_354.png,None,0,0,0,0,0,0
+ecg_355.png,None,0,0,0,0,0,0
+ecg_356.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_357.png,None,0,0,0,0,0,0
+ecg_358.png,None,0,0,0,0,0,0
+ecg_359.png,None,0,0,0,0,0,0
+ecg_360.png,None,0,0,0,0,0,0
+ecg_361.png,None,0,0,0,0,0,0
+ecg_362.png,None,0,0,0,0,0,0
+ecg_363.png,None,0,0,0,0,0,0
+ecg_364.png,None,0,0,0,0,0,0
+ecg_365.png,None,0,0,0,0,0,0
+ecg_366.png,None,0,0,0,0,0,0
+ecg_367.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_368.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_369.png,None,0,0,0,0,0,0
+ecg_370.png,None,0,0,0,0,0,0
+ecg_371.png,None,0,0,0,0,0,0
+ecg_372.png,None,0,0,0,0,0,0
+ecg_373.png,None,0,0,0,0,0,0
+ecg_374.png,None,0,0,0,0,0,0
+ecg_375.png,None,0,0,0,0,0,0
+ecg_376.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_377.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_378.png,None,0,0,0,0,0,0
+ecg_379.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_380.png,None,0,0,0,0,0,0
+ecg_381.png,None,0,0,0,0,0,0
+ecg_382.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_383.png,None,0,0,0,0,0,0
+ecg_384.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_385.png,None,0,0,0,0,0,0
+ecg_386.png,None,0,0,0,0,0,0
+ecg_387.png,None,0,0,0,0,0,0
+ecg_388.png,None,0,0,0,0,0,0
+ecg_389.png,None,0,0,0,0,0,0
+ecg_390.png,None,0,0,0,0,0,0
+ecg_391.png,None,0,0,0,0,0,0
+ecg_392.png,None,0,0,0,0,0,0
+ecg_393.png,None,0,0,0,0,0,0
+ecg_394.png,None,0,0,0,0,0,0
+ecg_395.png,None,0,0,0,0,0,0
+ecg_396.png,None,0,0,0,0,0,0
+ecg_397.png,None,0,0,0,0,0,0
+ecg_398.png,None,0,0,0,0,0,0
+ecg_399.png,None,0,0,0,0,0,0
+ecg_400.png,None,0,0,0,0,0,0
+ecg_401.png,None,0,0,0,0,0,0
+ecg_402.png,None,0,0,0,0,0,0
+ecg_403.png,None,0,0,0,0,0,0
+ecg_404.png,None,0,0,0,0,0,0
+ecg_405.png,None,0,0,0,0,0,0
+ecg_406.png,None,0,0,0,0,0,0
+ecg_407.png,None,0,0,0,0,0,0
+ecg_408.png,None,0,0,0,0,0,0
+ecg_409.png,None,0,0,0,0,0,0
+ecg_410.png,None,0,0,0,0,0,0
+ecg_411.png,None,0,0,0,0,0,0
+ecg_412.png,None,0,0,0,0,0,0
+ecg_413.png,None,0,0,0,0,0,0
+ecg_414.png,None,0,0,0,0,0,0
+ecg_415.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_416.png,None,0,0,0,0,0,0
+ecg_417.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_418.png,None,0,0,0,0,0,0
+ecg_419.png,None,0,0,0,0,0,0
+ecg_420.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_421.png,None,0,0,0,0,0,0
+ecg_422.png,None,0,0,0,0,0,0
+ecg_423.png,None,0,0,0,0,0,0
+ecg_424.png,None,0,0,0,0,0,0
+ecg_425.png,None,0,0,0,0,0,0
+ecg_426.png,None,0,0,0,0,0,0
+ecg_427.png,None,0,0,0,0,0,0
+ecg_428.png,None,0,0,0,0,0,0
+ecg_429.png,None,0,0,0,0,0,0
+ecg_430.png,None,0,0,0,0,0,0
+ecg_431.png,None,0,0,0,0,0,0
+ecg_432.png,None,0,0,0,0,0,0
+ecg_433.png,None,0,0,0,0,0,0
+ecg_434.png,None,0,0,0,0,0,0
+ecg_435.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_436.png,None,0,0,0,0,0,0
+ecg_437.png,None,0,0,0,0,0,0
+ecg_438.png,None,0,0,0,0,0,0
+ecg_439.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_440.png,None,0,0,0,0,0,0
+ecg_441.png,None,0,0,0,0,0,0
+ecg_442.png,None,0,0,0,0,0,0
+ecg_443.png,None,0,0,0,0,0,0
+ecg_444.png,None,0,0,0,0,0,0
+ecg_445.png,None,0,0,0,0,0,0
+ecg_446.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_447.png,None,0,0,0,0,0,0
+ecg_448.png,None,0,0,0,0,0,0
+ecg_449.png,None,0,0,0,0,0,0
+ecg_450.png,None,0,0,0,0,0,0
+ecg_451.png,None,0,0,0,0,0,0
+ecg_452.png,None,0,0,0,0,0,0
+ecg_453.png,None,0,0,0,0,0,0
+ecg_454.png,None,0,0,0,0,0,0
+ecg_455.png,None,0,0,0,0,0,0
+ecg_456.png,None,0,0,0,0,0,0
+ecg_457.png,None,0,0,0,0,0,0
+ecg_458.png,None,0,0,0,0,0,0
+ecg_459.png,None,0,0,0,0,0,0
+ecg_460.png,None,0,0,0,0,0,0
+ecg_461.png,None,0,0,0,0,0,0
+ecg_462.png,None,0,0,0,0,0,0
+ecg_463.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_464.png,None,0,0,0,0,0,0
+ecg_465.png,None,0,0,0,0,0,0
+ecg_466.png,None,0,0,0,0,0,0
+ecg_467.png,None,0,0,0,0,0,0
+ecg_468.png,None,0,0,0,0,0,0
+ecg_469.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_470.png,None,0,0,0,0,0,0
+ecg_471.png,None,0,0,0,0,0,0
+ecg_472.png,None,0,0,0,0,0,0
+ecg_473.png,None,0,0,0,0,0,0
+ecg_474.png,None,0,0,0,0,0,0
+ecg_475.png,None,0,0,0,0,0,0
+ecg_476.png,None,0,0,0,0,0,0
+ecg_477.png,None,0,0,0,0,0,0
+ecg_478.png,None,0,0,0,0,0,0
+ecg_479.png,None,0,0,0,0,0,0
+ecg_480.png,None,0,0,0,0,0,0
+ecg_481.png,None,0,0,0,0,0,0
+ecg_482.png,None,0,0,0,0,0,0
+ecg_483.png,None,0,0,0,0,0,0
+ecg_484.png,None,0,0,0,0,0,0
+ecg_485.png,None,0,0,0,0,0,0
+ecg_486.png,None,0,0,0,0,0,0
+ecg_487.png,None,0,0,0,0,0,0
+ecg_488.png,None,0,0,0,0,0,0
+ecg_489.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_490.png,None,0,0,0,0,0,0
+ecg_491.png,None,0,0,0,0,0,0
+ecg_492.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_493.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_494.png,None,0,0,0,0,0,0
+ecg_495.png,None,0,0,0,0,0,0
+ecg_496.png,None,0,0,0,0,0,0
+ecg_497.png,None,0,0,0,0,0,0
+ecg_498.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_499.png,None,0,0,0,0,0,0
+ecg_500.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_501.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_502.png,None,0,0,0,0,0,0
+ecg_503.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_504.png,None,0,0,0,0,0,0
+ecg_505.png,None,0,0,0,0,0,0
+ecg_506.png,None,0,0,0,0,0,0
+ecg_507.png,None,0,0,0,0,0,0
+ecg_508.png,None,0,0,0,0,0,0
+ecg_509.png,None,0,0,0,0,0,0
+ecg_510.png,None,0,0,0,0,0,0
+ecg_511.png,None,0,0,0,0,0,0
+ecg_512.png,None,0,0,0,0,0,0
+ecg_513.png,None,0,0,0,0,0,0
+ecg_514.png,None,0,0,0,0,0,0
+ecg_515.png,None,0,0,0,0,0,0
+ecg_516.png,None,0,0,0,0,0,0
+ecg_517.png,None,0,0,0,0,0,0
+ecg_518.png,None,0,0,0,0,0,0
+ecg_519.png,None,0,0,0,0,0,0
+ecg_520.png,None,0,0,0,0,0,0
+ecg_521.png,None,0,0,0,0,0,0
+ecg_522.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_523.png,None,0,0,0,0,0,0
+ecg_524.png,None,0,0,0,0,0,0
+ecg_525.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_526.png,None,0,0,0,0,0,0
+ecg_527.png,None,0,0,0,0,0,0
+ecg_528.png,None,0,0,0,0,0,0
+ecg_529.png,None,0,0,0,0,0,0
+ecg_530.png,None,0,0,0,0,0,0
+ecg_531.png,None,0,0,0,0,0,0
+ecg_532.png,None,0,0,0,0,0,0
+ecg_533.png,None,0,0,0,0,0,0
+ecg_534.png,None,0,0,0,0,0,0
+ecg_535.png,None,0,0,0,0,0,0
+ecg_536.png,None,0,0,0,0,0,0
+ecg_537.png,None,0,0,0,0,0,0
+ecg_538.png,None,0,0,0,0,0,0
+ecg_539.png,None,0,0,0,0,0,0
+ecg_540.png,None,0,0,0,0,0,0
+ecg_541.png,None,0,0,0,0,0,0
+ecg_542.png,None,0,0,0,0,0,0
+ecg_543.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_544.png,None,0,0,0,0,0,0
+ecg_545.png,None,0,0,0,0,0,0
+ecg_546.png,None,0,0,0,0,0,0
+ecg_547.png,None,0,0,0,0,0,0
+ecg_548.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_549.png,None,0,0,0,0,0,0
+ecg_550.png,None,0,0,0,0,0,0
+ecg_551.png,None,0,0,0,0,0,0
+ecg_552.png,None,0,0,0,0,0,0
+ecg_553.png,None,0,0,0,0,0,0
+ecg_554.png,None,0,0,0,0,0,0
+ecg_555.png,['Atrial Fibrillation'],0,0,0,0,1,0
+ecg_556.png,None,0,0,0,0,0,0
+ecg_557.png,None,0,0,0,0,0,0
+ecg_558.png,None,0,0,0,0,0,0
+ecg_559.png,None,0,0,0,0,0,0
+ecg_560.png,None,0,0,0,0,0,0
+ecg_561.png,None,0,0,0,0,0,0
+ecg_562.png,None,0,0,0,0,0,0
+ecg_563.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_564.png,None,0,0,0,0,0,0
+ecg_565.png,None,0,0,0,0,0,0
+ecg_566.png,None,0,0,0,0,0,0
+ecg_567.png,None,0,0,0,0,0,0
+ecg_568.png,None,0,0,0,0,0,0
+ecg_569.png,None,0,0,0,0,0,0
+ecg_570.png,None,0,0,0,0,0,0
+ecg_571.png,None,0,0,0,0,0,0
+ecg_572.png,None,0,0,0,0,0,0
+ecg_573.png,None,0,0,0,0,0,0
+ecg_574.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_575.png,None,0,0,0,0,0,0
+ecg_576.png,None,0,0,0,0,0,0
+ecg_577.png,None,0,0,0,0,0,0
+ecg_578.png,None,0,0,0,0,0,0
+ecg_579.png,None,0,0,0,0,0,0
+ecg_580.png,None,0,0,0,0,0,0
+ecg_581.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_582.png,None,0,0,0,0,0,0
+ecg_583.png,None,0,0,0,0,0,0
+ecg_584.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_585.png,None,0,0,0,0,0,0
+ecg_586.png,None,0,0,0,0,0,0
+ecg_587.png,None,0,0,0,0,0,0
+ecg_588.png,None,0,0,0,0,0,0
+ecg_589.png,None,0,0,0,0,0,0
+ecg_590.png,None,0,0,0,0,0,0
+ecg_591.png,None,0,0,0,0,0,0
+ecg_592.png,None,0,0,0,0,0,0
+ecg_593.png,None,0,0,0,0,0,0
+ecg_594.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_595.png,None,0,0,0,0,0,0
+ecg_596.png,None,0,0,0,0,0,0
+ecg_597.png,None,0,0,0,0,0,0
+ecg_598.png,None,0,0,0,0,0,0
+ecg_599.png,None,0,0,0,0,0,0
+ecg_600.png,None,0,0,0,0,0,0
+ecg_601.png,None,0,0,0,0,0,0
+ecg_602.png,None,0,0,0,0,0,0
+ecg_603.png,None,0,0,0,0,0,0
+ecg_604.png,None,0,0,0,0,0,0
+ecg_605.png,None,0,0,0,0,0,0
+ecg_606.png,None,0,0,0,0,0,0
+ecg_607.png,None,0,0,0,0,0,0
+ecg_608.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_609.png,None,0,0,0,0,0,0
+ecg_610.png,None,0,0,0,0,0,0
+ecg_611.png,None,0,0,0,0,0,0
+ecg_612.png,None,0,0,0,0,0,0
+ecg_613.png,None,0,0,0,0,0,0
+ecg_614.png,None,0,0,0,0,0,0
+ecg_615.png,None,0,0,0,0,0,0
+ecg_616.png,None,0,0,0,0,0,0
+ecg_617.png,None,0,0,0,0,0,0
+ecg_618.png,None,0,0,0,0,0,0
+ecg_619.png,None,0,0,0,0,0,0
+ecg_620.png,None,0,0,0,0,0,0
+ecg_621.png,None,0,0,0,0,0,0
+ecg_622.png,None,0,0,0,0,0,0
+ecg_623.png,None,0,0,0,0,0,0
+ecg_624.png,None,0,0,0,0,0,0
+ecg_625.png,None,0,0,0,0,0,0
+ecg_626.png,['Right Bundle Branch Block' 'Atrial Fibrillation'],0,1,0,0,1,0
+ecg_627.png,None,0,0,0,0,0,0
+ecg_628.png,None,0,0,0,0,0,0
+ecg_629.png,None,0,0,0,0,0,0
+ecg_630.png,None,0,0,0,0,0,0
+ecg_631.png,None,0,0,0,0,0,0
+ecg_632.png,None,0,0,0,0,0,0
+ecg_633.png,None,0,0,0,0,0,0
+ecg_634.png,None,0,0,0,0,0,0
+ecg_635.png,None,0,0,0,0,0,0
+ecg_636.png,None,0,0,0,0,0,0
+ecg_637.png,None,0,0,0,0,0,0
+ecg_638.png,None,0,0,0,0,0,0
+ecg_639.png,None,0,0,0,0,0,0
+ecg_640.png,None,0,0,0,0,0,0
+ecg_641.png,None,0,0,0,0,0,0
+ecg_642.png,None,0,0,0,0,0,0
+ecg_643.png,None,0,0,0,0,0,0
+ecg_644.png,None,0,0,0,0,0,0
+ecg_645.png,None,0,0,0,0,0,0
+ecg_646.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_647.png,None,0,0,0,0,0,0
+ecg_648.png,None,0,0,0,0,0,0
+ecg_649.png,None,0,0,0,0,0,0
+ecg_650.png,None,0,0,0,0,0,0
+ecg_651.png,None,0,0,0,0,0,0
+ecg_652.png,None,0,0,0,0,0,0
+ecg_653.png,None,0,0,0,0,0,0
+ecg_654.png,None,0,0,0,0,0,0
+ecg_655.png,None,0,0,0,0,0,0
+ecg_656.png,None,0,0,0,0,0,0
+ecg_657.png,None,0,0,0,0,0,0
+ecg_658.png,None,0,0,0,0,0,0
+ecg_659.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_660.png,None,0,0,0,0,0,0
+ecg_661.png,None,0,0,0,0,0,0
+ecg_662.png,None,0,0,0,0,0,0
+ecg_663.png,None,0,0,0,0,0,0
+ecg_664.png,None,0,0,0,0,0,0
+ecg_665.png,None,0,0,0,0,0,0
+ecg_666.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_667.png,None,0,0,0,0,0,0
+ecg_668.png,None,0,0,0,0,0,0
+ecg_669.png,None,0,0,0,0,0,0
+ecg_670.png,None,0,0,0,0,0,0
+ecg_671.png,None,0,0,0,0,0,0
+ecg_672.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_673.png,None,0,0,0,0,0,0
+ecg_674.png,None,0,0,0,0,0,0
+ecg_675.png,None,0,0,0,0,0,0
+ecg_676.png,None,0,0,0,0,0,0
+ecg_677.png,None,0,0,0,0,0,0
+ecg_678.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_679.png,None,0,0,0,0,0,0
+ecg_680.png,None,0,0,0,0,0,0
+ecg_681.png,None,0,0,0,0,0,0
+ecg_682.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_683.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_684.png,None,0,0,0,0,0,0
+ecg_685.png,None,0,0,0,0,0,0
+ecg_686.png,None,0,0,0,0,0,0
+ecg_687.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_688.png,None,0,0,0,0,0,0
+ecg_689.png,None,0,0,0,0,0,0
+ecg_690.png,None,0,0,0,0,0,0
+ecg_691.png,None,0,0,0,0,0,0
+ecg_692.png,None,0,0,0,0,0,0
+ecg_693.png,None,0,0,0,0,0,0
+ecg_694.png,None,0,0,0,0,0,0
+ecg_695.png,None,0,0,0,0,0,0
+ecg_696.png,None,0,0,0,0,0,0
+ecg_697.png,None,0,0,0,0,0,0
+ecg_698.png,None,0,0,0,0,0,0
+ecg_699.png,None,0,0,0,0,0,0
+ecg_700.png,None,0,0,0,0,0,0
+ecg_701.png,None,0,0,0,0,0,0
+ecg_702.png,None,0,0,0,0,0,0
+ecg_703.png,None,0,0,0,0,0,0
+ecg_704.png,None,0,0,0,0,0,0
+ecg_705.png,None,0,0,0,0,0,0
+ecg_706.png,None,0,0,0,0,0,0
+ecg_707.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_708.png,None,0,0,0,0,0,0
+ecg_709.png,None,0,0,0,0,0,0
+ecg_710.png,None,0,0,0,0,0,0
+ecg_711.png,None,0,0,0,0,0,0
+ecg_712.png,['1st degree AV Block' 'Right Bundle Branch Block'],1,1,0,0,0,0
+ecg_713.png,None,0,0,0,0,0,0
+ecg_714.png,None,0,0,0,0,0,0
+ecg_715.png,None,0,0,0,0,0,0
+ecg_716.png,None,0,0,0,0,0,0
+ecg_717.png,None,0,0,0,0,0,0
+ecg_718.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_719.png,None,0,0,0,0,0,0
+ecg_720.png,['1st degree AV Block'],1,0,0,0,0,0
+ecg_721.png,['Sinus Bradycardia'],0,0,0,1,0,0
+ecg_722.png,None,0,0,0,0,0,0
+ecg_723.png,None,0,0,0,0,0,0
+ecg_724.png,None,0,0,0,0,0,0
+ecg_725.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_726.png,None,0,0,0,0,0,0
+ecg_727.png,None,0,0,0,0,0,0
+ecg_728.png,None,0,0,0,0,0,0
+ecg_729.png,None,0,0,0,0,0,0
+ecg_730.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_731.png,None,0,0,0,0,0,0
+ecg_732.png,None,0,0,0,0,0,0
+ecg_733.png,None,0,0,0,0,0,0
+ecg_734.png,None,0,0,0,0,0,0
+ecg_735.png,None,0,0,0,0,0,0
+ecg_736.png,None,0,0,0,0,0,0
+ecg_737.png,None,0,0,0,0,0,0
+ecg_738.png,None,0,0,0,0,0,0
+ecg_739.png,None,0,0,0,0,0,0
+ecg_740.png,None,0,0,0,0,0,0
+ecg_741.png,None,0,0,0,0,0,0
+ecg_742.png,None,0,0,0,0,0,0
+ecg_743.png,None,0,0,0,0,0,0
+ecg_744.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_745.png,None,0,0,0,0,0,0
+ecg_746.png,None,0,0,0,0,0,0
+ecg_747.png,None,0,0,0,0,0,0
+ecg_748.png,None,0,0,0,0,0,0
+ecg_749.png,None,0,0,0,0,0,0
+ecg_750.png,None,0,0,0,0,0,0
+ecg_751.png,None,0,0,0,0,0,0
+ecg_752.png,None,0,0,0,0,0,0
+ecg_753.png,['Right Bundle Branch Block'],0,1,0,0,0,0
+ecg_754.png,None,0,0,0,0,0,0
+ecg_755.png,None,0,0,0,0,0,0
+ecg_756.png,None,0,0,0,0,0,0
+ecg_757.png,None,0,0,0,0,0,0
+ecg_758.png,None,0,0,0,0,0,0
+ecg_759.png,None,0,0,0,0,0,0
+ecg_760.png,None,0,0,0,0,0,0
+ecg_761.png,None,0,0,0,0,0,0
+ecg_762.png,None,0,0,0,0,0,0
+ecg_763.png,None,0,0,0,0,0,0
+ecg_764.png,None,0,0,0,0,0,0
+ecg_765.png,None,0,0,0,0,0,0
+ecg_766.png,None,0,0,0,0,0,0
+ecg_767.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_768.png,None,0,0,0,0,0,0
+ecg_769.png,None,0,0,0,0,0,0
+ecg_770.png,None,0,0,0,0,0,0
+ecg_771.png,None,0,0,0,0,0,0
+ecg_772.png,None,0,0,0,0,0,0
+ecg_773.png,None,0,0,0,0,0,0
+ecg_774.png,None,0,0,0,0,0,0
+ecg_775.png,None,0,0,0,0,0,0
+ecg_776.png,None,0,0,0,0,0,0
+ecg_777.png,None,0,0,0,0,0,0
+ecg_778.png,None,0,0,0,0,0,0
+ecg_779.png,None,0,0,0,0,0,0
+ecg_780.png,None,0,0,0,0,0,0
+ecg_781.png,None,0,0,0,0,0,0
+ecg_782.png,None,0,0,0,0,0,0
+ecg_783.png,None,0,0,0,0,0,0
+ecg_784.png,None,0,0,0,0,0,0
+ecg_785.png,None,0,0,0,0,0,0
+ecg_786.png,None,0,0,0,0,0,0
+ecg_787.png,['Left Bundle Branch Block'],0,0,1,0,0,0
+ecg_788.png,None,0,0,0,0,0,0
+ecg_789.png,['Sinus Tachycardia'],0,0,0,0,0,1
+ecg_790.png,None,0,0,0,0,0,0
+ecg_791.png,None,0,0,0,0,0,0
+ecg_792.png,None,0,0,0,0,0,0
+ecg_793.png,None,0,0,0,0,0,0
+ecg_794.png,None,0,0,0,0,0,0
+ecg_795.png,None,0,0,0,0,0,0
+ecg_796.png,None,0,0,0,0,0,0
+ecg_797.png,None,0,0,0,0,0,0
+ecg_798.png,None,0,0,0,0,0,0
+ecg_799.png,None,0,0,0,0,0,0
+ecg_800.png,None,0,0,0,0,0,0
+ecg_801.png,None,0,0,0,0,0,0
+ecg_802.png,None,0,0,0,0,0,0
+ecg_803.png,None,0,0,0,0,0,0
+ecg_804.png,None,0,0,0,0,0,0
+ecg_805.png,None,0,0,0,0,0,0
+ecg_806.png,None,0,0,0,0,0,0
+ecg_807.png,None,0,0,0,0,0,0
+ecg_808.png,None,0,0,0,0,0,0
+ecg_809.png,None,0,0,0,0,0,0
+ecg_810.png,None,0,0,0,0,0,0
+ecg_811.png,None,0,0,0,0,0,0
+ecg_812.png,None,0,0,0,0,0,0
+ecg_813.png,None,0,0,0,0,0,0
+ecg_814.png,None,0,0,0,0,0,0
+ecg_815.png,None,0,0,0,0,0,0
+ecg_816.png,None,0,0,0,0,0,0
+ecg_817.png,None,0,0,0,0,0,0
+ecg_818.png,None,0,0,0,0,0,0
+ecg_819.png,None,0,0,0,0,0,0
+ecg_820.png,None,0,0,0,0,0,0
+ecg_821.png,None,0,0,0,0,0,0
+ecg_822.png,None,0,0,0,0,0,0
+ecg_823.png,None,0,0,0,0,0,0
+ecg_824.png,None,0,0,0,0,0,0
+ecg_825.png,None,0,0,0,0,0,0
+ecg_826.png,None,0,0,0,0,0,0
